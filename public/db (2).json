@@ -1,0 +1,49 @@
+{
+    "data":[
+       {
+          "name":"Lionel Messi",
+          "country":"Argentina",
+          "age":35,
+          "clubs":"FC Barcelona, PSG",
+          "goals":805,
+          "matches":1021,
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlYfa-9XTifcBHXqzIH37LVhLDjwtu1J3Fa05M99pRvG0UdaOcds02mIAa&s=0"
+       },
+       {
+          "name":"Cristiano Ronaldo",
+          "country":"Portugal",
+          "age":38,
+          "clubs": "Sporting CP, Manchester United, Real Madrid CF, Juventus, Al-Nassr",
+          "goals":834,
+          "matches":1160,
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4I8S-dT8yUJZbjdCtKLhfjElUcpUMJ2JU-zTTc60tMbo0L5-Ztp5H-0Xl&s=0"
+       },
+       {
+          "name":"Erling Haaland",
+          "country":"England",
+          "age":22,
+          "clubs":"Molde, Bryne, Norway",
+          "goals":204,
+          "matches":246,
+          "image":"https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRj3jk4wdL0CCUGqemT329n1xNsTuk3xXRNb9H-qxZr856YNxqQxkbmXJYAiO_xUzhlkzaD0ZI&s=19"
+       },
+       {
+          "name":"Neymar",
+          "country":"Brazil",
+          "age":31,
+          "clubs": "Barcelona, Santos, Brazil, PSG",
+          "goals":436,
+          "matches":708,
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZVJmX9r3YJBT0J9Qh_KM7gZgXP22x1zdXdERRRo4KBYuiT1QpwNDg3HPn&s=0"
+       },
+       {
+          "name":"Kylian Mbappé",
+          "country":"France",
+          "age":24,
+          "clubs": "FAS Monaco, PSG, France",
+          "goals":270,
+          "matches":382,
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkH4aKWt3NTzjEliI1BfwYDoIBLJUV3KPoEYZ2qP3o9b_LP6_p7-lKIMeN&s=0"
+       }
+    ]
+ }
